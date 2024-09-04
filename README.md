@@ -56,3 +56,6 @@ Update the software_list dictionary with the software names and their versions t
 Run the Script:
 
 Execute the script to start scanning the specified host for open ports, software vulnerabilities, and misconfigurations.
+
+![Screenshot 2024-09-04 144234](https://github.com/user-attachments/assets/6189bb58-0006-4b83-ae21-438d99ee6351)
+
