@@ -1,9 +1,9 @@
-**Name:** SALMAN
-**Company:** Personal Project
-**ID:** N/A
-**Domain:** Python Programming
-**Duration:** September 2024
-**Mentor:** Self-Guided
+**Name:** SALMANUL FARISI.
+**Company:** CODETECH IT SOLUTIONS.
+**ID:** CT08DS5913.
+**Domain:** CYBER SECURITY&ETHICAL HACKING.
+**Duration:** August 15 to September 15 2024.
+**Mentor:** Neela Santhosh Kumar .
 
 ## Overview of the Project
 **Project:** Vulnerability Scanning Tool
